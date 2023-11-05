@@ -1,4 +1,4 @@
-// Immediatly Invoked Function Expressions (IIFE)
+// Immediately Invoked Function Expressions (IIFE)
 
 // As soon as the function is written, we need to execute it immediatly
 // We need such kind of functions when connecting to the Database
