@@ -11,6 +11,7 @@
 
 // const month = "march"
 const month = "may";
+
 switch (month) {
     case "jan":
         console.log("January");
