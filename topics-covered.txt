@@ -1,0 +1,14 @@
+
+Topics Done:
+  Basics(1-30) in playlist
+  OOPs(42-48) in playlist
+
+Pending Topics: 
+  DOM (31-41) in playlist: 
+    https://www.youtube.com/playlist?list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37
+  More Topics(49-51) in above playlist
+    -> 49. Lexical Scoping, Closure
+    -> 50. Javascript ends
+    -> 51. More about Arrays(Packed vs Holey), 
+            JSVU(Javascript(engine) Version Updater), 
+            V8 Javascript engine
