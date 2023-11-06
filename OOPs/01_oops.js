@@ -86,7 +86,8 @@ function User(username, loginCount, isLoggedIn){
     // greeting: [Function (anonymous)]
 // here the values of userTwo have overridden the values of userOne and userOne values have been changed
 
-// To Avoid this problem, we need to follow below approach by use of new keyword
+// To Avoid this problem, 
+// we need to follow below approach by use of new keyword
 
 
 const userOne = new User("hitesh", 12, true)
