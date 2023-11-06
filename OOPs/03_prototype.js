@@ -81,9 +81,11 @@ String.prototype.trueLength = function(){
 anotherUsername.trueLength()
 // ChaiAurCode     
 // True length is: 11
+
 " hi tesh".trueLength()
 //  hi tesh
 // True length is: 7
+
 "iceTea".trueLength()
 // iceTea
 // True length is: 6
