@@ -1,7 +1,51 @@
 
 Topics Done:
   Basics(1-30) in playlist
+    Basics
+      -> variables
+      -> datatypes
+      -> typecasting
+      -> comparision operators
+      -> strings
+      -> Number and Math
+      -> Date and time
+      -> datatypes summary (typeof)
+      -> memory structure(stack, heap, pass by value,reference)
+    Basics2
+      -> arrays(predefined functions, spread operator)
+      -> objects(singleton, non-singleton, predefined functions)
+      -> destructuring of objects
+    Basics3
+      -> functions
+      -> scopes
+      -> arrow functions
+      -> immediately invoked function expressions(iife)
+    Control Flow
+      -> execution flow of Javascript program
+      -> if-else if-else
+      -> switch case
+      -> truthy falsy
+    Iterations(Loops)
+      -> for loop, break, continue
+      -> while and do-while
+      -> for of
+      -> for in
+      -> forEach()
+      -> forEach() and filter()
+      -> map(), filter()
+      -> reduce()
   OOPs(42-48) in playlist
+    OOPs
+      -> object, constructor, this, new, instanceof
+      -> prototype, prototype chaining
+      -> prototypal inheritance
+      -> call() function to prevent dataloss
+      -> creating our own classes
+      -> inheritance by extends keyword 
+      -> static
+      -> bind
+      -> property descriptors (to change the value of Math.PI possible or not)
+      -> getters and setters (general method, Object.defineProperty(), Object.create())
 
 Pending Topics: 
   DOM (31-41) in playlist: 
